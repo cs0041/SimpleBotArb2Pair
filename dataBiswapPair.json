@@ -1,0 +1,1202 @@
+[
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xDA8ceb724A06819c0A5cDb4304ea0cB27F8304cF",
+    "token0": {
+      "sym": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x8840C6252e2e86e545deFb6da98B2a0E26d8C1BA",
+    "token0": {
+      "sym": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xaCAac9311b0096E04Dfe96b6D87dec867d3883Dc",
+    "token0": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x1483767E665B3591677Fd49F724bf7430C18Bf83",
+    "token0": {
+      "sym": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955"
+    },
+    "token1": {
+      "sym": "USDC",
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x63b30de1A998e9E64FD58A21F68D323B9BcD8F85",
+    "token0": {
+      "sym": "ETH",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+    },
+    "token1": {
+      "sym": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xa987f0b7098585c735cD943ee07544a84e923d1D",
+    "token0": {
+      "sym": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955"
+    },
+    "token1": {
+      "sym": "BTCB",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x6216E04cd40DB2c6FBEd64f1B5830A98D3A91740",
+    "token0": {
+      "sym": "ETH",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+    },
+    "token1": {
+      "sym": "BTCB",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xC7e9d76ba11099AF3F330ff829c5F442d571e057",
+    "token0": {
+      "sym": "BTCB",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x2b30c317ceDFb554Ec525F85E79538D59970BEb0",
+    "token0": {
+      "sym": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955"
+    },
+    "token1": {
+      "sym": "BSW",
+      "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x46492B26639Df0cda9b2769429845cb991591E0A",
+    "token0": {
+      "sym": "BSW",
+      "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xB22Bc4DB1DCd0B45680b4D831F8C06CFf50Ee4D6",
+    "token0": {
+      "sym": "BSW",
+      "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x6f2829B3061211C24a34583647e222f72Ff2e962",
+    "token0": {
+      "sym": "USDC",
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x15B868fB4b0358F26ACfdb11f20309593bf2fE72",
+    "token0": {
+      "sym": "BTCB",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x5bf6941f029424674bb93A43b79fc46bF4A67c21",
+    "token0": {
+      "sym": "ETH",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x43Dd808040a6692FE01975db376955AcCCa49d3D",
+    "token0": {
+      "sym": "BSW",
+      "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1"
+    },
+    "token1": {
+      "sym": "LTS",
+      "address": "0x9b67D53516Dc8F065C6fB956F4438977b856Ae8e"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x3839f740B26e15c06257F91D1596b93904D890aA",
+    "token0": {
+      "sym": "XIAZ",
+      "address": "0x5B48Ee4D84c530D19527Dd733cEDA740FdC61a68"
+    },
+    "token1": {
+      "sym": "BSW",
+      "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x7D9495e0b725093D181162e1D5A6A42A7BAE4D7b",
+    "token0": {
+      "sym": "USDC",
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d"
+    },
+    "token1": {
+      "sym": "BSW",
+      "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xe8d52d192112EC6418A93a8C7664495EF4EcF5Eb",
+    "token0": {
+      "sym": "BROCO",
+      "address": "0x4623d2FdfAECA3f3Eb105D4854aD328BcA916811"
+    },
+    "token1": {
+      "sym": "BARRA",
+      "address": "0x9D64b33AAe526DFea1cB7E48B2DA76160CE17BE4"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x8D678C6a98F0EFa67950F3530b0F04d2Db512C47",
+    "token0": {
+      "sym": "BT",
+      "address": "0x0E5366c4B3Eb849A711932c027fb0d2D2D834846"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x8A512868069E61A2E406FEaedd3284116421EaDa",
+    "token0": {
+      "sym": "clm",
+      "address": "0x9035347820985ED1F5E1BCB5450f5FDDBB967eab"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x7562C49EAb868CA4DEEf58Bf4b9C59AdfaC0D356",
+    "token0": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    },
+    "token1": {
+      "sym": "wDOGE",
+      "address": "0xf40c1F421eE02A550aFDD8712ef34dCe97EeC6f2"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xC392eEfFDea2cc72549d4e6BD159c12D4757aD9E",
+    "token0": {
+      "sym": "ARTHUR",
+      "address": "0x2e525838A44f703De7bDADd6Ab57159F2687D952"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xCB86f3CBCfb3474Ea9686D832222ab79f19aef41",
+    "token0": {
+      "sym": "HET",
+      "address": "0x68142ff26f90ec406f4176dc3445cc2b4d529Df3"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xF638bD89C0ab5873ab716cbbcF236e52809E5678",
+    "token0": {
+      "sym": "TEA",
+      "address": "0x410Ec6b80C345CE8bBb2F330E37666ADbbFBA394"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x14756E79cBe1Cd21cda2f29D920D442a9712665D",
+    "token0": {
+      "sym": "ORANGE",
+      "address": "0xAcab3Ee32aacdbC745667FB261ED7af1de5c5EcD"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xc407402ec45Ae7F955af4c49Ec194302e1d9Ed63",
+    "token0": {
+      "sym": "BSH",
+      "address": "0x69eD2E1F028568ddaB4B79a3Bc3090A243F517C6"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x3d94d03eb9ea2D4726886aB8Ac9fc0F18355Fd13",
+    "token0": {
+      "sym": "Cake",
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x53eA66a84F654d3880a8032bA7552600D41562dF",
+    "token0": {
+      "sym": "BTCB",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c"
+    },
+    "token1": {
+      "sym": "BSW",
+      "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x37fa0413f03e22F3418448F3d022d702e91BB6Da",
+    "token0": {
+      "sym": "NVR",
+      "address": "0x81a691003c0CCD47Ba9e18dA3822a176fe681040"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x29502Ad01c138762237D3381526f354db18F29c0",
+    "token0": {
+      "sym": "GFNC",
+      "address": "0xa47d87704d8fdE73A19eaB2A2343947aE8537b02"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xB717558b09EA1694FD9F696B74DD16d2952524f8",
+    "token0": {
+      "sym": "GFNC",
+      "address": "0xa47d87704d8fdE73A19eaB2A2343947aE8537b02"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xc68A5Eb46C5654224270B5a39FC5eC7F8857fAb0",
+    "token0": {
+      "sym": "BFG",
+      "address": "0x738853DaAF266c54c9559A839F0cE25dB005Dec9"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xf4eC578b7FC2c7c272B322b0cc9DF174d7d0406f",
+    "token0": {
+      "sym": "ETH",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+    },
+    "token1": {
+      "sym": "BSW",
+      "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x407dfd832092169Fa857D8450C2ED3AF9a2ad78a",
+    "token0": {
+      "sym": "Cake",
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82"
+    },
+    "token1": {
+      "sym": "BSW",
+      "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xC2608cB3C4a0042100DDe7015A948D8c914e1bCE",
+    "token0": {
+      "sym": "MLNN",
+      "address": "0x115843e76555b2e2E086b10c1529BBdcb6b6dfc2"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xaeb9bf5C10F233B7Ac32179272BdB2801E66E78D",
+    "token0": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    },
+    "token1": {
+      "sym": "MoonRabbit",
+      "address": "0xEf62323933f32D4949E74E3122bc639902313091"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x6e206c45585c99b8Df28E408C366702a9a3dc92F",
+    "token0": {
+      "sym": "KETCHUP",
+      "address": "0x714a84632Ed7edBbBFEb62DACf02DB4BeB4C69D9"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xC644D0f6cF1eF5Cf5AB1F32102e6EC9e4c1c9307",
+    "token0": {
+      "sym": "BTD",
+      "address": "0xD1102332a213E21faF78B69C03572031F3552c33"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xe0caab61EE7A12d03B268E1f6A56537aC1b61D13",
+    "token0": {
+      "sym": "DAI",
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3"
+    },
+    "token1": {
+      "sym": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xa9158CB0e0c91760C257B3E58bDC7dfDD33B6045",
+    "token0": {
+      "sym": "DAI",
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x9f1114033BCe2994561AD645ffF70b65b0c30A8D",
+    "token0": {
+      "sym": "GARUDA",
+      "address": "0x854086dC841e1bfae50Cb615bF41f55BF432a90b"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xe7fbB8bd95322618e925affd84D7eC0E32DC0e57",
+    "token0": {
+      "sym": "DOT",
+      "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x153dC2eBcB551799b13D4E6Ff84fC34C7AEDf241",
+    "token0": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    },
+    "token1": {
+      "sym": "UNI",
+      "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x8860922Eb2795aB0D57363653Dd7EBf18D7c0A42",
+    "token0": {
+      "sym": "ADA",
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x56D8bCD36462dE903A19C6B28eFc9d2d11Fd9Ff4",
+    "token0": {
+      "sym": "TUSD",
+      "address": "0x14016E85a25aeb13065688cAFB43044C2ef86784"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x9E78183dD68cC81bc330CAF3eF84D354a58303B5",
+    "token0": {
+      "sym": "UST",
+      "address": "0x23396cF899Ca06c4472205fC903bDB4de249D6fC"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x874318B21595D05209328fb0f0a7b08cc46f81E9",
+    "token0": {
+      "sym": "UST",
+      "address": "0x23396cF899Ca06c4472205fC903bDB4de249D6fC"
+    },
+    "token1": {
+      "sym": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xD9dbaEcd124bb75030Aaf7DAA6363B2257342d14",
+    "token0": {
+      "sym": "BSW",
+      "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1"
+    },
+    "token1": {
+      "sym": "UNI",
+      "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xf9Ff1EC8549b55Ab3F24F65C75951F7ff0631c22",
+    "token0": {
+      "sym": "BODA",
+      "address": "0x81cFB5E400Eb2caA319130A0DAE3B32cfb19392d"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xe621870Bb6E759220F4af9110f4Ae257Aa07720d",
+    "token0": {
+      "sym": "KRG",
+      "address": "0x704B6d0557633A57dde995a223eF9E9f16818393"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x412b607f4cBE9CaE77C6F720A701CD60fa0EBD3f",
+    "token0": {
+      "sym": "LTC",
+      "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94"
+    },
+    "token1": {
+      "sym": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x2B7e5bF4f8C6a9456A1580a4e3C6fEb161555df0",
+    "token0": {
+      "sym": "VAI",
+      "address": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x5dc30Bb8D7F02eFEf28f7E637D17Aea13Fa96906",
+    "token0": {
+      "sym": "XRP",
+      "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x1eF315fa08e0E1B116D97E3dFE0aF292Ed8b7f02",
+    "token0": {
+      "sym": "DOGE",
+      "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x16Fe21c91c426E603977b1C6EcD59Fc510a518C2",
+    "token0": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    },
+    "token1": {
+      "sym": "LINK",
+      "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xA9E21D17a1Ac770230BBFE2768bf723b44bF654a",
+    "token0": {
+      "sym": "LTC",
+      "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xC17555705C3bdc8Ec3e0d33dC9Bbe78A36fffAC2",
+    "token0": {
+      "sym": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955"
+    },
+    "token1": {
+      "sym": "DOGE",
+      "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x6e09959cC977bAF4D9097dE48178BDF155858FFE",
+    "token0": {
+      "sym": "ADA",
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47"
+    },
+    "token1": {
+      "sym": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xDaD85c69aC7E3D4c7f9D9F3b317Da865e094e24D",
+    "token0": {
+      "sym": "FEG",
+      "address": "0xacFC95585D80Ab62f67A14C566C1b7a49Fe91167"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x42B2533DAeE1Ddf6deF6616F45010796Dd17F0cb",
+    "token0": {
+      "sym": "TUSD",
+      "address": "0x14016E85a25aeb13065688cAFB43044C2ef86784"
+    },
+    "token1": {
+      "sym": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x0C96e0CAcF901f1Eb935061Caab170f8B2B788DD",
+    "token0": {
+      "sym": "DAI",
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xE5eb2Dd39d026720F2aD6E5a9AA924b67a1AD3a3",
+    "token0": {
+      "sym": "SHIBALLISTIC",
+      "address": "0x63d1dFbeEf2Eeb24aFfDB45557A60b7Cc6b24781"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x4c372698eaF2DA2A04dfEaDFE14DB0635fEfdB34",
+    "token0": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    },
+    "token1": {
+      "sym": "BAKE",
+      "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x52A499333A7837a72a9750849285E0bb8552dE5A",
+    "token0": {
+      "sym": "FIL",
+      "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153"
+    },
+    "token1": {
+      "sym": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x753C734Dfe05aF28A732C033e26Ea6D369e07662",
+    "token0": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    },
+    "token1": {
+      "sym": "XVS",
+      "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x2dd1450d7f35f4747Bbe2fa668c3d1E12399D652",
+    "token0": {
+      "sym": "BFG",
+      "address": "0xa135B635661c8910b122D4455489d33C976bcbCC"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x42A522E6873401C5ea53d6A80dAb675EDEbFe631",
+    "token0": {
+      "sym": "BSW",
+      "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1"
+    },
+    "token1": {
+      "sym": "BAKE",
+      "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x2657a81d2c1438fc3993A26B32a22347B2a99b70",
+    "token0": {
+      "sym": "CHIO",
+      "address": "0xa1A827b54d4C8fe5695dCf11bF434D4E8C8941ff"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xe4D8EA4c89DDCAcd1587Dc8E344b8377d3D850F1",
+    "token0": {
+      "sym": "HUNNY",
+      "address": "0x565b72163f17849832A692A3c5928cc502f46D69"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xF1A12EC907B3d87b6De7a9A5C3820566c621f68B",
+    "token0": {
+      "sym": "TWT",
+      "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x33521cc21ABD8423A8e64DE397a414Ea200Fd9af",
+    "token0": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    },
+    "token1": {
+      "sym": "BUNNY",
+      "address": "0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x247ffA1E3B9f455719539387E52220AD4b4e0Ba8",
+    "token0": {
+      "sym": "IRON",
+      "address": "0x7b65B489fE53fCE1F6548Db886C08aD73111DDd8"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x48aB3b9D41186b1c9f190B5a7ED23bA697Abc7AD",
+    "token0": {
+      "sym": "WEX",
+      "address": "0xa9c41A46a6B3531d28d5c32F6633dd2fF05dFB90"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xbed24d194AfE26169a1F4a419E381dd4e99f9C1f",
+    "token0": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    },
+    "token1": {
+      "sym": "BabyDoge",
+      "address": "0xc748673057861a797275CD8A068AbB95A902e8de"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x362643581edbC7A6dffC328E05Eb040686105E40",
+    "token0": {
+      "sym": "IRON",
+      "address": "0x7b65B489fE53fCE1F6548Db886C08aD73111DDd8"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x3668Ca2009aF4c0a4a9e258EF69eAD1FabbfB7da",
+    "token0": {
+      "sym": "SAFEMOON",
+      "address": "0x8076C74C5e3F5852037F31Ff0093Eeb8c8ADd8D3"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x7156a3f75c8165055b734a16C7f3176FDdD53B3B",
+    "token0": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    },
+    "token1": {
+      "sym": "PORNROCKET",
+      "address": "0xCF9f991b14620f5ad144Eec11f9bc7Bf08987622"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x39f460927A2f99d263e5A3ECb8e0167a9D54350A",
+    "token0": {
+      "sym": "SAFEMOON",
+      "address": "0x8076C74C5e3F5852037F31Ff0093Eeb8c8ADd8D3"
+    },
+    "token1": {
+      "sym": "BSW",
+      "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xedc3f1edB8811d2aE4aD6666D77521ae817F2ef1",
+    "token0": {
+      "sym": "SXP",
+      "address": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x9864EFa215b6dBfEC560e3785d7288f745f428a4",
+    "token0": {
+      "sym": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955"
+    },
+    "token1": {
+      "sym": "BabyDoge",
+      "address": "0xc748673057861a797275CD8A068AbB95A902e8de"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xc3B8F953127b245760837D4d9955D37314211a1C",
+    "token0": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    },
+    "token1": {
+      "sym": "MERL",
+      "address": "0xDA360309C59CB8C434b28A91b823344a96444278"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x9dE26d6e7E181e75508eBA61447E45Eb4272248F",
+    "token0": {
+      "sym": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955"
+    },
+    "token1": {
+      "sym": "DOT",
+      "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x16da0c473214717383b7Ef5cdE71c723584f8ac4",
+    "token0": {
+      "sym": "TRX",
+      "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xDE5e03bC7014D65aF8F9fe8F11FDb5B5b9116F7b",
+    "token0": {
+      "sym": "TKO",
+      "address": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xfbbd096A99e95D6808b918A5C0863ed9989EBd41",
+    "token0": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    },
+    "token1": {
+      "sym": "REEF",
+      "address": "0xF21768cCBC73Ea5B6fd3C687208a7c2def2d966e"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x857f601Df3Eac2f25E25dBd2B33D94bCd6F47d1C",
+    "token0": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    },
+    "token1": {
+      "sym": "SFP",
+      "address": "0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x4C7D6469232B6cb7df179359d5E2365e07737090",
+    "token0": {
+      "sym": "BSW",
+      "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1"
+    },
+    "token1": {
+      "sym": "PORNROCKET",
+      "address": "0xCF9f991b14620f5ad144Eec11f9bc7Bf08987622"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x45dC33f8bD5bAA9323E7803FCCc241f2e601e8A1",
+    "token0": {
+      "sym": "SFP",
+      "address": "0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xA80Fd151cC766F4F3A360d25819Bf49395B5CA8c",
+    "token0": {
+      "sym": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955"
+    },
+    "token1": {
+      "sym": "SFP",
+      "address": "0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xdBf862D2205506665180c2e593C36CdBbd39058e",
+    "token0": {
+      "sym": "TRX",
+      "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B"
+    },
+    "token1": {
+      "sym": "BSW",
+      "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xDA6884ba8A9ca298fcBf3556cb79F1168942Ad4D",
+    "token0": {
+      "sym": "GMR",
+      "address": "0x0523215DCafbF4E4aA92117d13C6985a3BeF27D7"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x316A80a00E2298224703E6E58f37e0e0a6F1d5eD",
+    "token0": {
+      "sym": "WEX",
+      "address": "0xa9c41A46a6B3531d28d5c32F6633dd2fF05dFB90"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x07E3798b891d6Cb44A9bEe91Fb2988A9aA14Def5",
+    "token0": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    },
+    "token1": {
+      "sym": "BOG",
+      "address": "0xD7B729ef857Aa773f47D37088A1181bB3fbF0099"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x8a18913E7fd3363355986e3803c18087475c173f",
+    "token0": {
+      "sym": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955"
+    },
+    "token1": {
+      "sym": "UNI",
+      "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x51d651B0607733178960532f6844B48cAeFC42bC",
+    "token0": {
+      "sym": "KEIF",
+      "address": "0x81bDb466317fE8E8559C67023bA5d83C37a2b098"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x88d483697F8E3FC8f5674F322d3a59ce786aCcD5",
+    "token0": {
+      "sym": "BSW",
+      "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1"
+    },
+    "token1": {
+      "sym": "BFG",
+      "address": "0xBb46693eBbEa1aC2070E59B4D043b47e2e095f86"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xe0625903565bfCDd738b7AB9b156CB14DC9977b3",
+    "token0": {
+      "sym": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955"
+    },
+    "token1": {
+      "sym": "BFG",
+      "address": "0xBb46693eBbEa1aC2070E59B4D043b47e2e095f86"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xf4Dcad62B24Fd966ad3641375978AFEDb7A8e802",
+    "token0": {
+      "sym": "BFG",
+      "address": "0xBb46693eBbEa1aC2070E59B4D043b47e2e095f86"
+    },
+    "token1": {
+      "sym": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0x3A18a64f632b47bD5C7aaFEbC58A1C62Df37DD4A",
+    "token0": {
+      "sym": "BFG",
+      "address": "0xBb46693eBbEa1aC2070E59B4D043b47e2e095f86"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  },
+  {
+    "router": "0x3a6d8cA21D1CF76F653A67577FA0D27453350dD8",
+    "addressPair": "0xDb26b76c2CA0f6Ff722565aa8B4EaFAebC677E41",
+    "token0": {
+      "sym": "XRP",
+      "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE"
+    },
+    "token1": {
+      "sym": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    }
+  }
+]

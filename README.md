@@ -137,11 +137,11 @@ ADDRESS_CONTRACT=
 ```
 If you get something like this means bot  it works and it will run loop data in file `dataSamePair.json` until you stop it
 
-![Logo](https://sv1.img.in.th/uxIrC.png)
+![Logo](https://sv1.picz.in.th/images/2023/02/25/eWmiG9.png))
 
 This picture is when the bot does arbitrage it will show information including Profit and if it have Profit it will execute tx immediately and you will get txhash back 
 
-![Logo](https://sv1.img.in.th/uxezD.png)
+![Logo](https://sv1.picz.in.th/images/2023/02/25/eWmltR.png))
 
 
 

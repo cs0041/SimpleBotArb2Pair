@@ -35,7 +35,7 @@ paris busd-usdt on twindex
 991.9861803364              busd 
 0.008911144541043           usdt
 ```
-![Logo](https://sv1.img.in.th/uxX6B.png)
+![Logo](https://sv1.picz.in.th/images/2023/02/25/e0NQlI.png)
 ### what this mean?
     1. The bot will check the ratio to make arbitrage 1->2 or 2->1.
     2. Then calculate whether to do arbitrage from liquidity pool more to less or less to more and calculate the numbers that will make the pool balanced out of the x*y = k equation.

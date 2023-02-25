@@ -158,5 +158,4 @@ This picture is when the bot does arbitrage it will show information including P
 
 - [@cs0041](https://github.com/cs0041)
 
-# Warning You need to have a good understanding before working, please test the smart contract carefully, otherwise your money will be lost This is just a simple arbitrage project.
-Don't use it in production.
+# Warning You need to have a good understanding before working, please test the smart contract carefully, otherwise your money will be lost This is just a simple arbitrage project.Don't use it in production.
